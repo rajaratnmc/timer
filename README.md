@@ -1,2 +1,2 @@
 # timer
-My official time keeper app
+My official time keeper app.
